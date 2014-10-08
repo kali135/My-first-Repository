@@ -1,4 +1,4 @@
 My-first-Repository
 ===================
 
-Checking how things work.
+Checking how things work
